@@ -1,0 +1,23 @@
+# 核心依赖
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+sqlalchemy==2.0.25
+pydantic==2.5.3
+python-multipart==0.0.6
+pyyaml==6.0.1
+
+# RPA 自动化依赖
+numpy<2.0  # opencv-python 需要 numpy < 2.0
+pyautogui==0.9.54
+pyobjc-framework-Cocoa==10.1
+pytesseract==0.3.10
+opencv-python==4.9.0.80
+Pillow==10.2.0
+apscheduler==3.10.4
+pyperclip==1.8.2
+requests==2.31.0
+
+# GUI 桌面应用依赖
+pywebview==5.3
+pystray==0.19.5
+pyinstaller==6.3.0
