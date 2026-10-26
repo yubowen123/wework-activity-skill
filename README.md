@@ -280,7 +280,13 @@ python -m rpa.main import --chat "群聊名称" --file messages.txt
 - [Element Plus](https://element-plus.org/)
 - [PyAutoGUI](https://pyautogui.readthedocs.io/)
 
-## 📮 联系方式
+<!-- aiyou-contact:start -->
+## 联系作者 / Contact
+
+扫码添加作者微信，交流使用体验与项目合作。
+
+<img src="docs/assets/wechat-contact.jpg" alt="Glimmer · 光波的个人微信二维码" width="280" />
+<!-- aiyou-contact:end -->
 
 如有问题或建议，请提交 Issue。
 
